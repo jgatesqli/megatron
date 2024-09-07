@@ -1,2 +1,2 @@
 # megatron
-cli tool - just messing around
+cli tool - just for fun
